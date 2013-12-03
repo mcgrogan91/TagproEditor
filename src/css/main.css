@@ -1,0 +1,25 @@
+#container{
+    height:100%;
+    width:100%;
+    background-color:red;
+}
+#formDiv{
+    height:20%;
+    background-color:pink;
+}
+#main{
+    height:80%;
+    background-color:green;
+}
+#options{
+    height:100%;
+    width:20%;
+    float:left;
+    background-color:red;
+}
+#board{
+    height:100%;
+    width:80%;
+    float:right;
+    background-color:yellow;
+}
